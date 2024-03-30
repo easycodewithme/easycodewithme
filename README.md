@@ -10,6 +10,11 @@
 - 📫 How to reach me **pulse.rajan22@gmail.com**
 - 👨‍💻 All of my projects are available at **https://easycodewithme.github.io/PulsePortfolio/**
 
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/https://www.instagram.com/pulserajan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pulserajan/" height="30" width="40" /></a>
+</p>
+
 <div> <a href="https://github.com/easycodewithme" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:pulse.rajan22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
