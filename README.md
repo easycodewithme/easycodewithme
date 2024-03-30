@@ -1,9 +1,9 @@
-<img src="[https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg](https://github.com/easycodewithme/easycodewithme/blob/main/pulse.gif)" width="100%" />
+<img src="pulse.gif" width="100%" />
 <h1 align="center">Hi 👋, I'm Pulse Rajan</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=easycodewithme&label=Profile%20views&color=0e75b6&style=flat" alt="easycodewithme" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=easycodewithme&theme=" alt="easycodewithme" /></a> </p>
+
 
 - 🌱 I’m currently learning **Mern Stack**
 - 💬 Ask me about **React,Python,C,PHP**
@@ -57,3 +57,5 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=easycodewithme&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=easycodewithme&theme=2077" height="180em" />
 </div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
