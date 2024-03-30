@@ -1,4 +1,4 @@
-[! [MasterHead] (https://drive.google.com/file/d/1Qwx6bGQ8djGRWgm0Nnb0-VPu7N2dHWJl/view?usp=sharing)]
+<img align="center" src="https://drive.google.com/file/d/1Qwx6bGQ8djGRWgm0Nnb0-VPu7N2dHWJl/view?usp=sharing" alt="https://www.instagram.com/pulserajan/" height="30" width="40" />
 <h1 align="center">Hi 👋, I'm Pulse Rajan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
