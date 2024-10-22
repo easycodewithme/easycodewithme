@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Mern Stack**
 - 💬 Ask me about **React,Python,C,PHP**
 - 📫 How to reach me **pulse.rajan22@gmail.com**
-- 👨‍💻 All of my projects are available at **https://easycodewithme.github.io/PulsePortfolio/**
+- 👨‍💻 All of my projects are available at **https://pulserajan.rf.gd**
 
   
 
