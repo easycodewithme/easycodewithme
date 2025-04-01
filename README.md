@@ -4,6 +4,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=easycodewithme&label=Profile%20views&color=0e75b6&style=flat" alt="easycodewithme" />
 </p>
+<img src="https://raw.githubusercontent.com/MeetD99/MeetD99/output/snake.svg" alt="Snake animation" style="max-width: 100%;">
 
 <!-- Animated Snake SVG -->
 <div align="center">
